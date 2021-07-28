@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:sans-serif;
+}
+header{
+    overflow: hidden;
+    text-align: center; 
+}
+.logo{
+    background-color: lightseagreen;
+    height: 80px;
+    color: skyblue;
+    float: left;
+    width: 20%;
+    font-size: 20px;
+}
+nav{
+    background-color:skyblue;
+    color: lightseagreen;
+    float: right;
+    height: 80px;
+    width: 80%;
+}
+.banner{
+    background-color: lightseagreen;
+    color: skyblue;
+    text-align: center;
+    font-size: 50px;
+    height: 350px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+.content{
+    background-color: skyblue;
+    height: 400px;
+    margin-top: 50px;
+    width: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.box1{
+    height: 150px;
+    width: 150px;
+    background-color: lightseagreen;
+    float: left;
+    margin-right: 10px;
+}
+.box2{
+    height: 150px;
+    width: 150px;
+    background-color: lightseagreen;
+    float: left;
+    margin-right: 10px;
+}
+.box3{
+    height: 150px;
+    width: 150px;
+    background-color: lightseagreen;
+    float: left;
+    margin-right: 10px;
+}
+.box{
+    overflow: hidden;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+.boxes{
+    overflow: hidden;
+    margin-left: 650px;
+    margin-top: 30px;
+}
+.box4{
+    height: 150px;
+    width: 150px;
+    background-color: lightseagreen;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.box5{
+    height: 150px;
+    width: 150px;
+    background-color: lightseagreen;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+.box6{
+    height: 150px;
+    width: 150px;
+    background-color: lightseagreen;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+.content-2{
+    overflow: hidden;
+    text-align: center;
+    margin-top: 50px;
+    mar
+}
+.photo{
+    margin-left: 450px;
+}
+.photo1{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    margin-right: 100px;
+    float: left;
+}
+.photo2{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    margin-right: 100px;
+    float: left;
+}
+.photo3{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    margin-right: 100px;
+    float: left;
+}
+.photo4{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    margin-right: 100px;
+    float: left;
+}
+footer{
+    background-color: lightseagreen;
+    text-align: center;
+    color: white;
+    height: 80px;
+    margin-top: 20px;
+}
